@@ -1,0 +1,34 @@
+Package: urbstatdata
+Type: Package
+Title: Seven Data Sets for Urban and Built-Environment Statistics
+Version: 0.1.0
+Authors@R: person(
+    given = "Mario",
+    family = "Cools",
+    role = c("aut", "cre", "cph"),
+    email = "mario.cools@uliege.be",
+    comment = c(ORCID = "0000-0003-3098-2693")
+  )
+Description: Seven documented data sets from transport, traffic safety,
+    urban planning, construction and architectural engineering. The package
+    provides fixed, redistributable snapshots with consistent variable names.
+    Each help page records the source, licence, unit of observation,
+    transformations and limitations of its data set. Sources include Yeh
+    (2018) <doi:10.24432/C5J30W>, Tsanas and Xifara (2012)
+    <doi:10.24432/C51307>, Yeh (1998) <doi:10.24432/C5PK67>, Seoul Bike
+    Sharing Demand (2020) <doi:10.24432/C5F62R>, and Singh and Chaudhari
+    (2018) <doi:10.24432/C5P605>.
+URL: https://github.com/mariocools/urbstatdata
+BugReports: https://github.com/mariocools/urbstatdata/issues
+License: MIT + file LICENSE
+Copyright: See inst/COPYRIGHTS.
+Depends: R (>= 3.5.0)
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Encoding: UTF-8
+LazyData: true
+LazyDataCompression: xz
+Roxygen: list(markdown = TRUE)
+NeedsCompilation: no
+Config/roxygen2/version: 8.1.0

@@ -1,0 +1,9 @@
+^data-raw$
+^cran-comments\.md$
+^CRAN-SUBMISSION-GUIDE\.md$
+^README\.Rmd$
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.github$
+^\.gitignore$
+^CRAN-SUBMISSION$

@@ -1,0 +1,22 @@
+The package metadata, documentation and data-preparation code are copyright
+2026 Mario Cools and are distributed under the MIT licence stated in LICENSE.
+
+The data are not relicensed under MIT. The following bundled data objects
+retain their source licences:
+
+* taipei_housing: I-Cheng Yeh, UCI Machine Learning Repository,
+  DOI 10.24432/C5J30W, CC BY 4.0.
+* building_energy: Athanasios Tsanas and Angeliki Xifara, UCI Machine Learning
+  Repository, DOI 10.24432/C51307, CC BY 4.0.
+* concrete_strength: I-Cheng Yeh, UCI Machine Learning Repository,
+  DOI 10.24432/C5PK67, CC BY 4.0.
+* seoul_bikes: Seoul Bike Sharing Demand, UCI Machine Learning Repository,
+  DOI 10.24432/C5F62R, CC BY 4.0.
+* room_occupancy: Adarsh Pal Singh and Sachin Chaudhari, UCI Machine Learning
+  Repository, DOI 10.24432/C5P605, CC BY 4.0.
+* be_accidents: Statbel and the Belgian Federal Police, CC BY 4.0. A stable
+  source snapshot was retrieved through the rWSBIM1207 R package.
+* be_building_stock: Statbel, CC BY 4.0.
+
+See inst/licenses/source-attributions.md and each data-set help page for full
+source links, transformations and limitations.

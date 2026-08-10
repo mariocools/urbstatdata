@@ -1,0 +1,8 @@
+object,source_url,doi,licence,retrieved,source_filename,sha256
+taipei_housing,https://archive.ics.uci.edu/static/public/477/real+estate+valuation+data+set.zip,10.24432/C5J30W,CC BY 4.0,2026-08-10,uci-477.zip,aa437bdac3ca23200258a0a58d251c0af90651aeaf7c7a07aaa714f0f9f25e2c
+building_energy,https://archive.ics.uci.edu/static/public/242/energy+efficiency.zip,10.24432/C51307,CC BY 4.0,2026-08-10,uci-242.zip,499441eee27929a4b00417f58fd8c63c9cc14b8a71520cd0dd27fcb626738351
+concrete_strength,https://archive.ics.uci.edu/static/public/165/concrete+compressive+strength.zip,10.24432/C5PK67,CC BY 4.0,2026-08-10,uci-165.zip,dad85d14de8aee4e07479daa774e6b569a313715b71a3b92c95a07cf91c2c9a7
+seoul_bikes,https://archive.ics.uci.edu/static/public/560/seoul+bike+sharing+demand.zip,10.24432/C5F62R,CC BY 4.0,2026-08-10,uci-560.zip,139e9908f0a3544bb222386855c9ce107e96467306bb8e4ce936aab59e7baac4
+room_occupancy,https://archive.ics.uci.edu/static/public/864/room+occupancy+estimation.zip,10.24432/C5P605,CC BY 4.0,2026-08-10,uci-864.zip,a0db79ee96ea297c22458ac77a28fba20d41246e75d24b2655ca3ab624cc08fd
+be_building_stock,https://bestat.statbel.fgov.be/bestat/api/views/43d7cdce-3647-4f5c-86f1-a4e0c864f692/result/CSV,,CC BY 4.0,2026-08-10,bestat-building-complete-2025.csv,b7d0d1b949fe141360d3cdf24839b356000c90a20b30e83df0ee37bc2bdcafa5
+be_accidents,https://raw.githubusercontent.com/UCLouvain-CBIO/rWSBIM1207/3561033e7a99182664a0a20f603382b5539941f0/inst/extdata/TF_ACCIDENTS_VICTIMS_2022.rds,,CC BY 4.0,2026-08-10,TF_ACCIDENTS_VICTIMS_2022.rds,b8f3e61a307194dde5a5935ae2d2093e3b6e75b3484c05b9e17c7ba941491fb5
